@@ -8,11 +8,15 @@ How should a team determine whether a search approach helps a user find the info
 
 The current exercise contains **12 invented records and 8 authored queries**. It compares title matching with a method that searches additional metadata and normalizes selected terms. The code and data are new AI-assisted portfolio work. They are separate from the original NOAA NESDIS project and its results.
 
-## My experience and contribution
+## My role and the original context
 
-In my Summer Games work, I researched comparable solutions and real-world use cases, explored Ollama and AI queries, participated in benchmarking and testing, refined user stories, and led the structure of the final presentation. Those activities connected technical exploration with the user's task and the explanation presented to stakeholders.
+**Booz Allen Hamilton · Summer Games AI team serving NOAA NESDIS · 2025**
 
-For this portfolio extension, the focus is a complete evaluation workflow that a reviewer can inspect. It includes a defined baseline, transparent scoring, a relevance set with reasons, calculated metrics, and tests for edge cases. There is no dependency on an external model service or paid API.
+My contribution centered on research, testing, user stories, and communication. I explored Ollama and AI queries, investigated comparable approaches and use cases, took part in benchmarking, refined user stories, and led the structure of the final presentation. I worked within a team; the original experience is distinct from the independent evaluation code in this repository.
+
+The current exercise makes one part of that reasoning visible: defining what counts as a useful search result and checking whether a measured improvement answers the user's task.
+
+[Portfolio overview](https://zianabennett.github.io/#work) · [Experience and leadership](https://zianabennett.github.io/#experience)
 
 ## What the exercise does
 
