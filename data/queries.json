@@ -1,0 +1,10 @@
+[
+  {"id":"Q01","text":"ocean heat readings","relevant_ids":["D01","D12"],"reason":"Both records concern ocean temperature; the city land-temperature record is outside this question."},
+  {"id":"Q02","text":"hurricane rain","relevant_ids":["D02"],"reason":"The record describes rainfall associated with coastal severe weather."},
+  {"id":"Q03","text":"river flood extent","relevant_ids":["D03"],"reason":"The record describes water extending beyond the river channel."},
+  {"id":"Q04","text":"wildfire smoke","relevant_ids":["D04"],"reason":"The record describes smoke transport during a wildfire exercise."},
+  {"id":"Q05","text":"crop water stress","relevant_ids":["D05"],"reason":"The record concerns agricultural moisture and drought."},
+  {"id":"Q06","text":"mountain snow cover","relevant_ids":["D06"],"reason":"The record concerns mountain snow extent and snowpack."},
+  {"id":"Q07","text":"offshore wind speed","relevant_ids":["D07"],"reason":"The record concerns offshore marine wind speed."},
+  {"id":"Q08","text":"polar frozen ocean","relevant_ids":["D10"],"reason":"The record concerns frozen ocean coverage in polar areas."}
+]

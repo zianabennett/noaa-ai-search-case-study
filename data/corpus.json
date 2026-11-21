@@ -1,0 +1,14 @@
+[
+  {"id":"D01","title":"Daily sea surface temperature","description":"Invented daily thermal readings over open water for an ocean monitoring exercise.","tags":["ocean","temperature","surface","daily"]},
+  {"id":"D02","title":"Coastal storm precipitation","description":"Invented rainfall estimates during severe weather for a regional hazard exercise.","tags":["storm","precipitation","coastal","hurricane"]},
+  {"id":"D03","title":"River inundation footprint","description":"Invented map coverage of water extending beyond a river channel.","tags":["river","flood","extent","hazard"]},
+  {"id":"D04","title":"Regional aerosol movement","description":"Invented observations of smoke transport during a wildfire exercise.","tags":["wildfire","smoke","aerosol","air"]},
+  {"id":"D05","title":"Vegetation moisture conditions","description":"Invented crop water stress observations for an agricultural drought exercise.","tags":["crop","water","drought","vegetation"]},
+  {"id":"D06","title":"Mountain snow extent","description":"Invented winter snowpack coverage over a mountain region.","tags":["snow","snowpack","mountain","cover"]},
+  {"id":"D07","title":"Coastal surface winds","description":"Invented offshore wind speed readings for a marine planning exercise.","tags":["offshore","wind","speed","marine"]},
+  {"id":"D08","title":"Daytime sky fraction","description":"Invented cloud coverage observations for a weather exercise.","tags":["cloud","cover","sky","weather"]},
+  {"id":"D09","title":"Urban nighttime lights","description":"Invented brightness observations over cities used in a mapping exercise.","tags":["city","night","light","urban"]},
+  {"id":"D10","title":"Polar sea ice distribution","description":"Invented coverage of frozen ocean areas in a polar mapping exercise.","tags":["polar","frozen","ocean","ice"]},
+  {"id":"D11","title":"City surface temperature","description":"Invented land heat observations for an urban planning exercise.","tags":["city","land","temperature","urban"]},
+  {"id":"D12","title":"Reef thermal conditions","description":"Invented ocean temperature stress observations for a coral monitoring exercise.","tags":["ocean","temperature","reef","coral"]}
+]
