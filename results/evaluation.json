@@ -1,0 +1,197 @@
+{
+  "title_only": {
+    "summary": {
+      "hit_at_3": 0.375,
+      "precision_at_3": 0.125,
+      "recall_at_3": 0.375,
+      "reciprocal_rank": 0.375
+    },
+    "queries": [
+      {
+        "query_id": "Q01",
+        "text": "ocean heat readings",
+        "top_3": [],
+        "hit_at_3": 0,
+        "precision_at_3": 0.0,
+        "recall_at_3": 0.0,
+        "reciprocal_rank": 0.0
+      },
+      {
+        "query_id": "Q02",
+        "text": "hurricane rain",
+        "top_3": [],
+        "hit_at_3": 0,
+        "precision_at_3": 0.0,
+        "recall_at_3": 0.0,
+        "reciprocal_rank": 0.0
+      },
+      {
+        "query_id": "Q03",
+        "text": "river flood extent",
+        "top_3": [
+          "D03",
+          "D06"
+        ],
+        "hit_at_3": 1,
+        "precision_at_3": 0.3333333333333333,
+        "recall_at_3": 1.0,
+        "reciprocal_rank": 1.0
+      },
+      {
+        "query_id": "Q04",
+        "text": "wildfire smoke",
+        "top_3": [],
+        "hit_at_3": 0,
+        "precision_at_3": 0.0,
+        "recall_at_3": 0.0,
+        "reciprocal_rank": 0.0
+      },
+      {
+        "query_id": "Q05",
+        "text": "crop water stress",
+        "top_3": [],
+        "hit_at_3": 0,
+        "precision_at_3": 0.0,
+        "recall_at_3": 0.0,
+        "reciprocal_rank": 0.0
+      },
+      {
+        "query_id": "Q06",
+        "text": "mountain snow cover",
+        "top_3": [
+          "D06"
+        ],
+        "hit_at_3": 1,
+        "precision_at_3": 0.3333333333333333,
+        "recall_at_3": 1.0,
+        "reciprocal_rank": 1.0
+      },
+      {
+        "query_id": "Q07",
+        "text": "offshore wind speed",
+        "top_3": [],
+        "hit_at_3": 0,
+        "precision_at_3": 0.0,
+        "recall_at_3": 0.0,
+        "reciprocal_rank": 0.0
+      },
+      {
+        "query_id": "Q08",
+        "text": "polar frozen ocean",
+        "top_3": [
+          "D10"
+        ],
+        "hit_at_3": 1,
+        "precision_at_3": 0.3333333333333333,
+        "recall_at_3": 1.0,
+        "reciprocal_rank": 1.0
+      }
+    ]
+  },
+  "metadata_expanded": {
+    "summary": {
+      "hit_at_3": 1.0,
+      "precision_at_3": 0.375,
+      "recall_at_3": 1.0,
+      "reciprocal_rank": 1.0
+    },
+    "queries": [
+      {
+        "query_id": "Q01",
+        "text": "ocean heat readings",
+        "top_3": [
+          "D01",
+          "D12",
+          "D11"
+        ],
+        "hit_at_3": 1,
+        "precision_at_3": 0.6666666666666666,
+        "recall_at_3": 1.0,
+        "reciprocal_rank": 1.0
+      },
+      {
+        "query_id": "Q02",
+        "text": "hurricane rain",
+        "top_3": [
+          "D02"
+        ],
+        "hit_at_3": 1,
+        "precision_at_3": 0.3333333333333333,
+        "recall_at_3": 1.0,
+        "reciprocal_rank": 1.0
+      },
+      {
+        "query_id": "Q03",
+        "text": "river flood extent",
+        "top_3": [
+          "D03",
+          "D06"
+        ],
+        "hit_at_3": 1,
+        "precision_at_3": 0.3333333333333333,
+        "recall_at_3": 1.0,
+        "reciprocal_rank": 1.0
+      },
+      {
+        "query_id": "Q04",
+        "text": "wildfire smoke",
+        "top_3": [
+          "D04"
+        ],
+        "hit_at_3": 1,
+        "precision_at_3": 0.3333333333333333,
+        "recall_at_3": 1.0,
+        "reciprocal_rank": 1.0
+      },
+      {
+        "query_id": "Q05",
+        "text": "crop water stress",
+        "top_3": [
+          "D05",
+          "D01",
+          "D03"
+        ],
+        "hit_at_3": 1,
+        "precision_at_3": 0.3333333333333333,
+        "recall_at_3": 1.0,
+        "reciprocal_rank": 1.0
+      },
+      {
+        "query_id": "Q06",
+        "text": "mountain snow cover",
+        "top_3": [
+          "D06",
+          "D08"
+        ],
+        "hit_at_3": 1,
+        "precision_at_3": 0.3333333333333333,
+        "recall_at_3": 1.0,
+        "reciprocal_rank": 1.0
+      },
+      {
+        "query_id": "Q07",
+        "text": "offshore wind speed",
+        "top_3": [
+          "D07"
+        ],
+        "hit_at_3": 1,
+        "precision_at_3": 0.3333333333333333,
+        "recall_at_3": 1.0,
+        "reciprocal_rank": 1.0
+      },
+      {
+        "query_id": "Q08",
+        "text": "polar frozen ocean",
+        "top_3": [
+          "D10",
+          "D01",
+          "D12"
+        ],
+        "hit_at_3": 1,
+        "precision_at_3": 0.3333333333333333,
+        "recall_at_3": 1.0,
+        "reciprocal_rank": 1.0
+      }
+    ]
+  }
+}
